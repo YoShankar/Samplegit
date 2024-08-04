@@ -14,7 +14,7 @@ public class Arts {
 
 	}
 	public void bBA() {
-		System.out.println("BbA : 55");
+		System.out.println("BbA : 56");
 
 	}
 
