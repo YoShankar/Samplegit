@@ -10,7 +10,7 @@ public class Arts {
 
 	}
 	public void bA() {
-		System.out.println("BA : 45");
+		System.out.println("BA : 46");
 
 	}
 	public void bBA() {
